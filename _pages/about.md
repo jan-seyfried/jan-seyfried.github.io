@@ -13,7 +13,7 @@ My major is Computer Science, and my focus is on (quantum) learning theory, whic
 News
 ======
 
-- 2026/05: Our work *"Optimal Sample Complexity Lower Bounds on Conditional Independence Testing"* was accepted for a talk at *COLT 2026*! Joint work with Neelkanth Mishra, [Sayantan Sen](https://sites.google.com/view/sayantans/home), and [Marco Tomamichel](https://www.cqt.sg/groups/marco-tomamichel/).
-- 2025/05: Our work *"Testing (Conditional) Mutual Information"* was accepted for a talk at *COLT 2025*, joint work with [Sayantan Sen](https://sites.google.com/view/sayantans/home) and [Marco Tomamichel](https://www.cqt.sg/groups/marco-tomamichel/).
-- 2025/02: I started my PhD at CQT :cat2:
+- 05/2026: Our work *"Optimal Sample Complexity Lower Bounds on Conditional Independence Testing"* was accepted for a talk at *COLT 2026*! Joint work with Neelkanth Mishra, [Sayantan Sen](https://sites.google.com/view/sayantans/home), and [Marco Tomamichel](https://www.cqt.sg/groups/marco-tomamichel/).
+- 05/2025: Our work *"Testing (Conditional) Mutual Information"* was accepted for a talk at *COLT 2025*, joint work with [Sayantan Sen](https://sites.google.com/view/sayantans/home) and [Marco Tomamichel](https://www.cqt.sg/groups/marco-tomamichel/).
+- 02/2025: I started my PhD at CQT :cat2:
 

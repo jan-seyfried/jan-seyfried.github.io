@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Quantum Information Theory group](https://marcotom.info/) led by [Prof. Marco Tomamichel](https://www.cqt.sg/groups/marco-tomamichel/) at the [Centre for Quantum Technologies](https://www.cqt.sg/), Singapore.
+I am a PhD student in the [Quantum Information Theory group](https://marcotom.info/) led by [Prof. Marco Tomamichel](https://www.cqt.sg/groups/marco-tomamichel/) at the [Centre for Quantum Technologies](https://www.cqt.sg/) (CQT), National University of Singapore.<br>
 My major is Computer Science, and my focus is on (quantum) learning theory, which naturally combines my broader interests in theoretical computer science and quantum information. Prior to this, I completed an internship in the same group, and graduated with a Master's degree in Physics from ETH Zürich, Switzerland.
 
 News

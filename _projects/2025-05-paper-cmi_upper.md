@@ -1,6 +1,6 @@
 ---
 title: "Testing (Conditional) Mutual Information"
-date: 2025-05
+date: 2025-05-01
 permalink: /projects/conditional-independence-testing/
 ---
 

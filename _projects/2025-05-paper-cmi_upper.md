@@ -1,7 +1,7 @@
 ---
 title: "Testing (Conditional) Mutual Information"
 date: 2025-05
-
+permalink: /projects/conditional-independence-testing/
 ---
 
 Coauthors: Sayantan Sen and Marco Tomamichel
